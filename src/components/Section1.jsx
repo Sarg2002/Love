@@ -1,5 +1,5 @@
 import React from "react";
-import imagePortada from "../assets/images/image-frontpage.png";
+import imagePortada from "../assets/images/image-frontpage.webp";
 
 function Section1() {
   return (

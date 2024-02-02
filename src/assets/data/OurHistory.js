@@ -300,7 +300,7 @@ const OurHistory = [
         title: "La comuna 13",
         img: image37,
         data: "1 de mayo de 2023",
-        desc: "Ese día fue muy especial para ti, pudiste ver a tu hermana después de mucho tiempo y ver de que las cosas ya no son como lo eran antes. Me alegra mucho saber que tu hermana te quiere tanto y de que ya son un poco más unidas.",
+        desc: "Ese día fue muy especial para ti, pudiste ver a tu hermana después de mucho tiempo y darte cuenta de que las cosas ya no son como lo eran antes. Me alegra mucho saber que tu hermana te quiere tanto y de que ya son un poco más unidas.",
     },
     {
         id: 38,

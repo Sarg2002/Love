@@ -286,7 +286,7 @@ const OurHistory = [
         title: "Tu segundo cumpleaños a mi lado",
         img: image35,
         data: "2 de febrero de 2023",
-        desc: "Al igual que la anterior foto, siempre disfruto mucho de estar en tus cumpleaños. Pero este en particular, lo rescató porque fue de las pocas oportunidades que tuviste para compartir con tu abuelo paterno, y la verdad, es que tu felicidad se te nota en la carita.",
+        desc: "Al igual que la anterior foto, siempre disfruto mucho de estar en tus cumpleaños. Pero este en particular, lo rescato porque fue de las pocas oportunidades que tuviste para compartir con tu abuelo paterno, y la verdad, es que tu felicidad se te nota en la carita.",
     },
     {
         id: 36,
@@ -300,7 +300,7 @@ const OurHistory = [
         title: "La comuna 13",
         img: image37,
         data: "1 de mayo de 2023",
-        desc: "Ese día fue muy especial para ti, pudiste ver a tu hermana después de hace tiempo y ver de que las cosas ya no son como lo eran antes. Me alegra mucho saber que tu hermana te quiere tanto y de que ya son un poco más unidas.",
+        desc: "Ese día fue muy especial para ti, pudiste ver a tu hermana después de mucho tiempo y ver de que las cosas ya no son como lo eran antes. Me alegra mucho saber que tu hermana te quiere tanto y de que ya son un poco más unidas.",
     },
     {
         id: 38,

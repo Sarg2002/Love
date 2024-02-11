@@ -4,8 +4,8 @@ import OurHistory from "../assets/data/OurHistory";
 function Section2() {
   return (
     <div>
-      <h2 class="text-center mt-20 text-4xl sm:text-5xl font-bold text-[#CE9CB9]">
-        Mis recuerdos memorables 🤍
+      <h2 class="text-center mt-20 text-4xl sm:text-5xl font-bold text-[#FFA966]">
+        Recordemos juntos estos hermosos cuatro años a tu lado. 🧡
       </h2>
       <ol class="relative ml-2 mt-16">
         {OurHistory.map((history) => (
